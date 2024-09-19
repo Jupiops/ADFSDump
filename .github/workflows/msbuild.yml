@@ -50,5 +50,5 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
        name: ADFSDump 
-       path: "D:\a\ADFSDump\ADFSDump\ADFSDump\bin\Release\*"
+       path: "D:/a/ADFSDump/ADFSDump/ADFSDump/bin/Release/*"
        compression-level: 9
